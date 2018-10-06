@@ -1,0 +1,9 @@
+[package]
+name = "jsontest"
+version = "0.1.0"
+authors = ["Kartikaya Gupta <kats@trevize.staktrace.com>"]
+
+[dependencies]
+json = "*"
+rustc-serialize = "*"
+serde_json = "*"
